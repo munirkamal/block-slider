@@ -4,7 +4,7 @@ Donate link: https://wpblockslider.com/donate/
 Tags: wordpress slider, gutenberg, gutenberg slider, slider block, gutenberg block, slider plugin, carousel, slider, image slider, responsive slider, slideshow, fullwidth slider, post slider, horizontal slider, vertical slider, photo slider, video slider, responsive slides
 Requires at least: 4.8
 Tested up to: 4.9
-Stable tag: 1.0.4
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 

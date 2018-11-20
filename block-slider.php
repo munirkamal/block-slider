@@ -5,7 +5,7 @@
  * Description: The slider plugin for WordPress Gutenberg editor. Build sliders directly within Gutenberg editor live. Add any WordPress blocks to each slide.
  * Author: munirkamal
  * Author URI: https://munirkamal.wordpress.com/
- * Version: 1.0.4
+ * Version: 1.0.5
  * License: GPL
  * License URI: http://www.gnu.org/licenses/gpl-2.0.txt
  */
