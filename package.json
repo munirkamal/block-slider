@@ -1,0 +1,45 @@
+{
+  "name": "gutenberg-scaffolding",
+  "description": "Gutenberg Scaffolding",
+  "version": "1.0.0",
+  "author": "Essa Mamdani",
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^0.28.4",
+    "extract-loader": "^3.0.0",
+    "extract-text-webpack-plugin": "^3.0.2",
+    "node-sass": "^4.5.3",
+    "sass-loader": "^6.0.6",
+    "webpack": "^3.0.0"
+  },
+  "scripts": {
+    "start": "webpack --watch",
+    "build": "webpack -p"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/essamamdani/gutenberg-scaffolding.git"
+  },
+  "keywords": [
+    "gutenberg",
+    "scaffolding",
+    "gutenberg",
+    "scss",
+    "gutenberg",
+    "boilerplate"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/essamamdani/gutenberg-scaffolding/issues"
+  },
+  "homepage": "https://github.com/essamamdani/gutenberg-scaffolding#readme",
+  "dependencies": {
+    "memize": "^1.0.5",
+    "react": "^16.6.3",
+    "react-helmet": "^5.2.0"
+  }
+}
