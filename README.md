@@ -4,9 +4,9 @@ Donate link: https://wpblockslider.com/donate/
 Tags: wordpress slider, gutenberg, gutenberg slider, slider block, gutenberg block, slider plugin, carousel, slider, image slider, responsive slider, slideshow, fullwidth slider, post slider, horizontal slider, vertical slider, photo slider, video slider, responsive slides
 Requires at least: 4.8
 Tested up to: 4.9
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-1.0.6.html
 
 The slider plugin for WordPress Gutenberg editor. Build sliders directly within Gutenberg editor live. Add any WordPress blocks to each slide.
 
@@ -47,6 +47,6 @@ For basic usage, you can also have a look at the plugin website [Block Slider](h
 
 For more information, visit [Block Slider](https://wpblockslider.com).
 
-= 1.0.0 (18 Nov 2018) =
+= 1.0.0 (18 Nov 1.0.68) =
 
 * Initial release with the basic functionality.

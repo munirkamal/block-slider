@@ -26,6 +26,7 @@ if(!class_exists("GBBlockSlider")){
 					'wp-blocks',
 					'wp-i18n',
 					'wp-element',
+					'wp-editor',
 				),
 				filemtime( "$dir/$index_js" )
 			);
